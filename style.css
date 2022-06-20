@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    color: palevioletred;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
